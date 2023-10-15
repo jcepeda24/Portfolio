@@ -1,0 +1,102 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description": "Knowledgeable in Node JS, React Js, HTML and CSS"
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Back-End",
+      "description": "Knowledgeable in Java, PHP and Python programming languages"
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "Digital Editor",
+      "description": "Knowledgeable in using Adobe Photoshop, Canva, MS Power Point, Adobe Premiere, etc."
+    },
+    {
+      "id": "4",
+      "src": "./img/network.png",
+      "title": "Network Administration",
+      "description": "Knowledgeable in network troubleshooting and network switches, router and Untangle NG Firewall configuration"
+    },
+    {
+      "id": "5",
+      "src": "./img/information.png",
+      "title": "IT Specialist",
+      "description": "Have experience on install, monitor, and troubleshoot computer hardware and software systems."
+    },
+    {
+      "id": "6",
+      "src": "./img/sys_ad.png",
+      "title": "System Administration",
+      "description": "Manages systems software, hardware, servers or workstations."
+    },
+    {
+      "id": "7",
+      "src": "./img/cctv.png",
+      "title": "CCTV Technician",
+      "description": "Installation and maintaining closed-circuit television systems(NVR and DVR)."
+    },
+    {
+      "id": "8",
+      "src": "./img/supervise.png",
+      "title": "IT Supervisor",
+      "description": "Specialist in many fields to supervise IT teams as they maintain, update, and install computer systems."
+    }
+  ],
+
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/placeholder-image.png",
+      "title": "Ahuse",
+      "description": "Lorem ipsum dolor sit amet, consectetir adipiscing elit. Suspendisse varius ein in eros elementum tristique",
+      "link": "View In Github"
+    },
+    {
+      "id": "2",
+      "src": "./img/placeholder-image-1.png",
+      "title": "App Dashboard",
+      "description": "Lorem ipsum dolor sit amet, consectetir adipiscing elit. Suspendisse varius ein in eros elementum tristique",
+      "link": "View In Github"
+    },
+    {
+      "id": "3",
+      "src": "./img/placeholder-image-2.png",
+      "title": "Easy Rentn",
+      "description": "Lorem ipsum dolor sit amet, consectetir adipiscing elit. Suspendisse varius ein in eros elementum tristique",
+      "link": "View In Github"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description": "Lorem ipsum dolor sit amet, consectetir adipiscing elit. Suspendisse varius ein in eros elementum tristique",
+      "author_name": "Roy Mayorga",
+      "author_designation": "Starbucks"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "Lorem ipsum dolor sit amet, consectetir adipiscing elit. Suspendisse varius ein in eros elementum tristique",
+      "author_name": "JayR Santos",
+      "author_designation": "Roy's Boot Camp"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "Lorem ipsum dolor sit amet, consectetir adipiscing elit. Suspendisse varius ein in eros elementum tristique",
+      "author_name": "Mark Jherome Samsin",
+      "author_designation": "Master's"
+    }
+  ]
+}
